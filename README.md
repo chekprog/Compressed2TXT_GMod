@@ -5,6 +5,7 @@ Multiple file(s) and folder(s) "Send to" menu selection
 Drag-and-drop support for files(s) and folders(s)  
 
 **Forked from AveYo’s Compressed2TXT v6.5**
+
 ![Preview](preview1.jpg)
 ![Preview](preview2.jpg)
 
