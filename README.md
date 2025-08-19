@@ -1,10 +1,9 @@
 # Compressed2TXT GUI Mod
+**Forked from AveYo’s Compressed2TXT v6.5**
 Windows 7 support ( PowerShell 2.0 / C# 2.0 )
 Very fast encoding and decoding BAT85 and BAT91 classes
 Multiple file(s) and folder(s) "Send to" menu selection 
 Drag-and-drop support for files(s) and folders(s)  
-
-**Forked from AveYo’s Compressed2TXT v6.5**
 
 ![Preview](preview1.jpg)
 ![Preview](preview2.jpg)
@@ -21,10 +20,6 @@ Drag-and-drop support for files(s) and folders(s)
 >  Всё остальное работает, как в оригинале.
 
 ---
-
-## Compressed2TXT GUI Mod
-
-**Forked from AveYo’s Compressed2TXT v6.5**
 
 ### What's new:
 
